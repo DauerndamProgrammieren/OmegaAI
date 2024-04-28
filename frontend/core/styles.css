@@ -1,0 +1,5 @@
+@import 'colors.css';
+
+* {
+    color: var(--font-col);
+}
