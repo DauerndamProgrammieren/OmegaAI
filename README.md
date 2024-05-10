@@ -1,1 +1,1 @@
-# OmegaAI
+# ProjectOmega
