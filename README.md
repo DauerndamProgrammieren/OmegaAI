@@ -1,1 +1,3 @@
 # ProjectOmega
+
+Backend: Spring based
